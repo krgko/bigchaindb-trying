@@ -1,0 +1,4 @@
+node_modules
+*.lock
+bigchaindb_docker/mongodb
+bigchaindb_docker/tendermint

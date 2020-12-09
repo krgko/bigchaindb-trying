@@ -1,0 +1,16 @@
+{
+  "name": "bigchaindb-trying",
+  "version": "0.0.0",
+  "description": "Trying bigchaindb by reading and doing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sample": "node app.js"
+  },
+  "keywords": [],
+  "author": "krgko",
+  "license": "ISC",
+  "dependencies": {
+    "bigchaindb-driver": "^4.1.2"
+  }
+}
