@@ -86,7 +86,7 @@ Let's map to real transaction. For `CREATE`
 
 <https://github.com/bigchaindb/BEPs/tree/master/13>
 
-```json
+```javascript
 {
     "id": "0e7a9a9047fdf39eb5ead7170ec412c6bffdbe8d7888966584b4014863e03518", // hash_of_xx(data)
     "version": "2.0", // Spec version <https://github.com/bigchaindb/BEPs/tree/master/13#versioning>
